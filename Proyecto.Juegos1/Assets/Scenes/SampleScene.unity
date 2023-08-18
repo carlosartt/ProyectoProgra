@@ -783,7 +783,7 @@ GameObject:
   - component: {fileID: 144977275}
   - component: {fileID: 144977274}
   m_Layer: 0
-  m_Name: 2478079-estilo-dia-de-los-muertos-sepultura-cruz-com-flor-gratis-vetor-removebg-preview
+  m_Name: cruz1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1137,8 +1137,7 @@ GameObject:
   - component: {fileID: 191994699}
   - component: {fileID: 191994698}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (2)
+  m_Name: jump4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1184,7 +1183,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1295,7 +1294,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: ec51245026dc9074d947f933d7313efa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1333,8 +1332,7 @@ GameObject:
   - component: {fileID: 202791092}
   - component: {fileID: 202791091}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (1)
+  m_Name: jump3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1380,7 +1378,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1519,7 +1517,7 @@ GameObject:
   - component: {fileID: 283828192}
   - component: {fileID: 283828191}
   m_Layer: 0
-  m_Name: 250-2505383_do-papel-picado-dia-de-los-muertos-hd-removebg-preview
+  m_Name: man3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2870,7 +2868,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: ec51245026dc9074d947f933d7313efa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3076,8 +3074,7 @@ GameObject:
   - component: {fileID: 642831374}
   - component: {fileID: 642831373}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (7)
+  m_Name: jump9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3123,7 +3120,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3245,7 +3242,7 @@ GameObject:
   - component: {fileID: 733212552}
   - component: {fileID: 733212551}
   m_Layer: 0
-  m_Name: 7a589b26227499.5635342b6d1cb-removebg-preview
+  m_Name: v1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3329,7 +3326,7 @@ GameObject:
   - component: {fileID: 778694275}
   - component: {fileID: 778694274}
   m_Layer: 0
-  m_Name: color-hueso-titan (1)
+  m_Name: b2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3413,7 +3410,7 @@ GameObject:
   - component: {fileID: 792628840}
   - component: {fileID: 792628839}
   m_Layer: 0
-  m_Name: juego-de-mantelitos-con-diseno-de-papel-picado-fieltro-version-colores-oxm_8_530x_2x-removebg-preview
+  m_Name: man2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3459,7 +3456,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 60638fb1e54c4f24cbda5f251887a744, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4247,7 +4244,7 @@ GameObject:
   - component: {fileID: 922169191}
   - component: {fileID: 922169190}
   m_Layer: 0
-  m_Name: images-removebg-preview 2
+  m_Name: man1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4293,7 +4290,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: d60c90f36d8b94a4caff308a8712f9b3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4331,8 +4328,7 @@ GameObject:
   - component: {fileID: 924365583}
   - component: {fileID: 924365582}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (3)
+  m_Name: jump5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4378,7 +4374,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4741,7 +4737,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3a87e9d97a23d6e40a25606c33a478a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6152,7 +6148,7 @@ GameObject:
   - component: {fileID: 1106235551}
   - component: {fileID: 1106235550}
   m_Layer: 0
-  m_Name: "86958979-maravillas-aisladas-sobre-fondo-blanco-flores-para-decorar-s\xEDmbolo-de-vacaciones-mexicanas-d\xEDa-de-removebg-preview"
+  m_Name: flor1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6338,7 +6334,7 @@ GameObject:
   - component: {fileID: 1141742341}
   - component: {fileID: 1141742340}
   m_Layer: 0
-  m_Name: color-hueso-titan (2)
+  m_Name: b3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6812,7 +6808,7 @@ GameObject:
   - component: {fileID: 1229345447}
   - component: {fileID: 1229345446}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
+  m_Name: jump1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6858,7 +6854,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6896,8 +6892,7 @@ GameObject:
   - component: {fileID: 1234689306}
   - component: {fileID: 1234689305}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (8)
+  m_Name: jump2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6963,7 +6958,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1234689304}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.93, y: 4.32, z: 0}
+  m_LocalPosition: {x: 3.01, y: 4.14, z: 0}
   m_LocalScale: {x: 0.8216, y: 0.9001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7092,7 +7087,7 @@ GameObject:
   - component: {fileID: 1244347920}
   - component: {fileID: 1244347919}
   m_Layer: 0
-  m_Name: color-hueso-titan
+  m_Name: b1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7176,8 +7171,7 @@ GameObject:
   - component: {fileID: 1255198220}
   - component: {fileID: 1255198219}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (6)
+  m_Name: jump8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7223,7 +7217,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7554,7 +7548,7 @@ GameObject:
   - component: {fileID: 1304626798}
   - component: {fileID: 1304626797}
   m_Layer: 0
-  m_Name: 61o0yezV3rL._UF350_350_QL80_-removebg-preview
+  m_Name: man4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8112,8 +8106,7 @@ GameObject:
   - component: {fileID: 1390033487}
   - component: {fileID: 1390033486}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (4)
+  m_Name: jump6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8159,7 +8152,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8561,7 +8554,7 @@ GameObject:
   - component: {fileID: 1564417514}
   - component: {fileID: 1564417513}
   m_Layer: 0
-  m_Name: png-transparent-nightstand-table-furniture-bedroom-chair-tables-cartoon-3d-cartoon-character-3d-computer-graphics-furniture-removebg-preview
+  m_Name: mesa12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8790,7 +8783,7 @@ GameObject:
   - component: {fileID: 1633469184}
   - component: {fileID: 1633469183}
   m_Layer: 0
-  m_Name: images__4_-removebg-preview
+  m_Name: tam1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9042,8 +9035,7 @@ GameObject:
   - component: {fileID: 1674749207}
   - component: {fileID: 1674749206}
   m_Layer: 0
-  m_Name: sports-poster-calligraphy-illustration-hand-260nw-349335143-removebg-preview
-    (5)
+  m_Name: jump7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9089,7 +9081,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3cd31100f4bbee4479e80f52c17c96a7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9969,7 +9961,7 @@ GameObject:
   - component: {fileID: 1889866316}
   - component: {fileID: 1889866315}
   m_Layer: 0
-  m_Name: pngtree-mexican-skull-with-flowers-and-candles-vector-png-image_6826900
+  m_Name: d23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10248,7 +10240,7 @@ GameObject:
   - component: {fileID: 1985934765}
   - component: {fileID: 1985934764}
   m_Layer: 0
-  m_Name: png-transparent-stop-behaving-computer-icons-stop-sign-sign-stop-miscellaneous-text-logo-removebg-preview
+  m_Name: stop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10314,7 +10306,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985934763}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.673, y: 3.625, z: 0}
+  m_LocalPosition: {x: 8.5, y: 3.35, z: 0}
   m_LocalScale: {x: 0.18928103, y: 0.21273868, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10573,7 +10565,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 08a994fc0bb76ae4198e2b298b9a62f7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11047,7 +11039,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3a87e9d97a23d6e40a25606c33a478a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11086,7 +11078,7 @@ GameObject:
   - component: {fileID: 2104268025}
   - component: {fileID: 2104268024}
   m_Layer: 0
-  m_Name: 0437ef8414a4ebbe1069887a1db398ad-removebg-preview
+  m_Name: ca1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11280,7 +11272,7 @@ GameObject:
   - component: {fileID: 2120094022}
   - component: {fileID: 2120094021}
   m_Layer: 0
-  m_Name: 347-3470751_catrina-y-catrin-dia-de-muertos-removebg-preview
+  m_Name: cat1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11670,7 +11662,7 @@ GameObject:
   - component: {fileID: 2141999243}
   - component: {fileID: 2141999242}
   m_Layer: 0
-  m_Name: bg_f8f8f8-flat_750x_075_f-pad_750x1000_f8f8f8-removebg-preview
+  m_Name: munn1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11716,7 +11708,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 2e186a91fc152904e807bd56caa495c2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11911,7 +11903,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3a87e9d97a23d6e40a25606c33a478a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
