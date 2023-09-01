@@ -18,7 +18,7 @@ public class controlador_jugador : MonoBehaviour
     void Update()
     {
         float velVert = MiCuerpo.velocity.y;
-        MiCuerpo.velocity = new Vector3(5, 0, 0);
+        MiCuerpo.velocity = new Vector3(4, 0, 0);
 
         MiAnimador.SetBool("caminata", true);
     }
