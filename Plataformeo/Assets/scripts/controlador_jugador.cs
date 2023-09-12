@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class controlador_jugador : MonoBehaviour
 {
+    public float velocidadCaminar = 5;
+
     private Rigidbody2D MiCuerpo;
     private Animator MiAnimador;
     // Start is called before the first frame update
@@ -17,9 +19,29 @@ public class controlador_jugador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         float velVert = MiCuerpo.velocity.y;
-        MiCuerpo.velocity = new Vector3(4, 0, 0);
+        float movHoriz = Input.GetAxis("Horizontal");
 
-        MiAnimador.SetBool("caminata", true);
+        if (movHoriz > 0)//Se mueve a la der
+        {
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+
+            MiCuerpo.velocity = new Vector3(velocidadCaminar, velVert, 0);
+
+            MiAnimador.SetBool("caminata", true);
+        }
+        else if (movHoriz < 0) //Se mueve a la izq
+        {
+            transform.rotation = Quaternion.Euler(0, 180, 0);
+
+            MiCuerpo.velocity = new Vector3(-velocidadCaminar, velVert, 0);
+            MiAnimador.SetBool("caminata", true);
+        }
+        else
+        {
+            MiCuerpo.velocity = new Vector3(0, velVert, 0);
+            MiAnimador.SetBool("caminata", false);
+        }
     }
 }
