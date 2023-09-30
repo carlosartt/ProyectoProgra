@@ -15,14 +15,16 @@ public class controlador_jugador : MonoBehaviour
         MiCuerpo = GetComponent<Rigidbody2D>();
         MiAnimador = GetComponent<Animator>();
         
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
         float velVert = MiCuerpo.velocity.y;
         float movHoriz = Input.GetAxis("Horizontal");
+        
 
         if (movHoriz > 0)//Se mueve a la derecha
         {
@@ -47,9 +49,20 @@ public class controlador_jugador : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
+<<<<<<< HEAD
+            MiCuerpo.AddForce(new Vector3(0,fuerzaSalto,0), ForceMode2D.Impulse);
+        }
+
+        MiAnimador.SetFloat("Vel_Vert", velVert);
+    } 
+    
+   
+=======
             MiCuerpo.AddForce(new Vector3(0, fuerzaSalto, 0), ForceMode2D.Impulse);
         }
 
         MiAnimador.SetFloat("VEL_VERT", velVert);
     }
+>>>>>>> a805d1eb37a764cb9a3f65bc4704a3530abc665a
 }
+
