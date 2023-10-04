@@ -10,16 +10,24 @@ public class Personaje : MonoBehaviour
     public int vidas = 3;
     public int score = 10;
 
+    public GameObject splashHeartPrefab;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+       
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (hp = 0)
+        {
+            GameObject efectoBroke = Instantiate(splashHeartPrefab);
+
+            efectoBroke.transform.position = elPerso.transform.position;
+        }
     }
 
     public void hacerDanio(int puntosDanio, GameObject enemigo)
@@ -30,8 +38,18 @@ public class Personaje : MonoBehaviour
 
     public void muerteInsta(GameObject quien)
     {
-        
-        print(name + " mrurio instantaneamente por " + quien);
+
+        print(name + " murio instantaneamente por " + quien);
         hp = 0;
+
     }
+
+
+   
+
+    
+        
+    
+
+
 }

@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Trampa : MonoBehaviour
 {
+    public GameObject splashBloodPrefab;
+   
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         GameObject otroObjeto = collision.gameObject;
@@ -14,7 +17,15 @@ public class Trampa : MonoBehaviour
             Personaje elPerso = otroObjeto.GetComponent<Personaje>();
 
             elPerso.hacerDanio(5, this.gameObject);
+
+            //efecto sangre
+            GameObject efectoSplash = Instantiate(splashBloodPrefab);
+
+            efectoSplash.transform.position = elPerso.transform.position;
+
+            
         }
+        
     }
 
 }

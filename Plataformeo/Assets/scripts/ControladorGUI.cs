@@ -39,8 +39,6 @@ public class ControladorGUI : MonoBehaviour
         BarraHPHeroe.fillAmount = porcentanjeHPHeroe;
 
 
-        /*float porcentanjeScoreHeroe = Heroe.score / (float)1000;
-
-        BarraHPHeroe.fillAmount = porcentanjeScoreHeroe;*/
+        
     }
 }
