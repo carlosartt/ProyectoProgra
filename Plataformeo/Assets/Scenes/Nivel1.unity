@@ -10233,7 +10233,10 @@ MonoBehaviour:
   hp: 70
   hpMax: 100
   vidas: 3
+  vidasMinimas: 1
   score: 10
+  heridasBloodPrefab: {fileID: 0}
+  vidasMenosPrefab: {fileID: 0}
 --- !u!70 &1672325289
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -11050,9 +11053,17 @@ PrefabInstance:
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 5481226121376022328, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: vidasMenosPrefab
+      value: 
+      objectReference: {fileID: 6855314210357232287, guid: 7c2a9b83b809a0848915fabd9596b68b, type: 3}
+    - target: {fileID: 5481226121376022328, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: splashHeartPrefab
       value: 
       objectReference: {fileID: 6855314210357232287, guid: 7c2a9b83b809a0848915fabd9596b68b, type: 3}
+    - target: {fileID: 5481226121376022328, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
+      propertyPath: heridasBloodPrefab
+      value: 
+      objectReference: {fileID: 4553287630450876385, guid: 15483e51212e3d74886ea57291f4639a, type: 3}
     - target: {fileID: 5481226121376022329, guid: e189bd765bfbcd3498c6f20f4c014879, type: 3}
       propertyPath: velocidadCaminar
       value: 10
